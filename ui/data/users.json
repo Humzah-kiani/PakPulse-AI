@@ -1,0 +1,21 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin",
+    "name": "Administrator",
+    "email": "admin@pakpulse.ai"
+  },
+  "officer": {
+    "password": "officer123",
+    "role": "officer",
+    "name": "Health Officer",
+    "email": "officer@pakpulse.ai"
+  },
+  "testcase": {
+    "password": "humzaH@4.4",
+    "hashed": false,
+    "role": "viewer",
+    "name": "testcase",
+    "email": "humzah0kiani@gmail.com"
+  }
+}

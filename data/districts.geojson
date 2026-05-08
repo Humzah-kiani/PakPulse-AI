@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Karachi",
+        "province": "Sindh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0011,
+          24.8607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Lahore",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3587,
+          31.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Islamabad",
+        "province": "Federal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0479,
+          33.6844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Faisalabad",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.135,
+          31.4504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Rawalpindi",
+        "province": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0169,
+          33.5651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Multan",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5249,
+          30.1575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Peshawar",
+        "province": "Khyber Pakhtunkhwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5249,
+          34.0151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Quetta",
+        "province": "Balochistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.975,
+          30.1798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Sialkot",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5229,
+          32.4945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Gujranwala",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1883,
+          32.1617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Hyderabad",
+        "province": "Sindh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3578,
+          25.396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Sargodha",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6711,
+          32.0836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Bahawalpur",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.6833,
+          29.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Sukkur",
+        "province": "Sindh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.8589,
+          27.7032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Larkana",
+        "province": "Sindh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.212,
+          27.559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Sheikhupura",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9833,
+          31.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Jhang",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3317,
+          31.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Rahim Yar Khan",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2989,
+          28.4212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Gujrat",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0776,
+          32.5739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Kasur",
+        "province": "Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.45,
+          31.1167
+        ]
+      }
+    }
+  ]
+}

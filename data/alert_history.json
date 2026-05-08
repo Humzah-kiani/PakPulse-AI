@@ -1,0 +1,830 @@
+[
+  {
+    "district": "Bahawalpur",
+    "disease": "malaria",
+    "risk_index": 99.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Bahawalpur_malaria_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616569"
+  },
+  {
+    "district": "Faisalabad",
+    "disease": "dengue",
+    "risk_index": 76.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Faisalabad_dengue_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616590"
+  },
+  {
+    "district": "Islamabad",
+    "disease": "influenza",
+    "risk_index": 87.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Islamabad_influenza_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616602"
+  },
+  {
+    "district": "Karachi",
+    "disease": "cholera",
+    "risk_index": 79.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Karachi_cholera_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616611"
+  },
+  {
+    "district": "Karachi",
+    "disease": "influenza",
+    "risk_index": 80.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Karachi_influenza_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616619"
+  },
+  {
+    "district": "Karachi",
+    "disease": "malaria",
+    "risk_index": 93.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Karachi_malaria_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616628"
+  },
+  {
+    "district": "Larkana",
+    "disease": "cholera",
+    "risk_index": 71.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Larkana_cholera_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616636"
+  },
+  {
+    "district": "Multan",
+    "disease": "cholera",
+    "risk_index": 80.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Multan_cholera_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616645"
+  },
+  {
+    "district": "Multan",
+    "disease": "malaria",
+    "risk_index": 83.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Multan_malaria_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616653"
+  },
+  {
+    "district": "Peshawar",
+    "disease": "cholera",
+    "risk_index": 70.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Peshawar_cholera_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616662"
+  },
+  {
+    "district": "Quetta",
+    "disease": "malaria",
+    "risk_index": 73.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Quetta_malaria_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616670"
+  },
+  {
+    "district": "Rahim Yar Khan",
+    "disease": "cholera",
+    "risk_index": 77.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Rahim Yar Khan_cholera_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616678"
+  },
+  {
+    "district": "Rahim Yar Khan",
+    "disease": "dengue",
+    "risk_index": 75.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Rahim Yar Khan_dengue_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616687"
+  },
+  {
+    "district": "Sukkur",
+    "disease": "cholera",
+    "risk_index": 82.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sukkur_cholera_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616695"
+  },
+  {
+    "district": "Sukkur",
+    "disease": "dengue",
+    "risk_index": 78.0,
+    "threshold": 70,
+    "date": "2025-10-31",
+    "status": "failed",
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sukkur_dengue_2025-10-31",
+    "timestamp": "2025-11-07T22:08:40.616703"
+  },
+  {
+    "district": "Bahawalpur",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Bahawalpur_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:06.441472"
+  },
+  {
+    "district": "Faisalabad",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Faisalabad_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:11.054780"
+  },
+  {
+    "district": "Gujranwala",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Gujranwala_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:16.185526"
+  },
+  {
+    "district": "Gujrat",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Gujrat_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:21.488571"
+  },
+  {
+    "district": "Gujrat",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Gujrat_malaria_2023-06-15",
+    "timestamp": "2025-11-21T00:05:26.324997"
+  },
+  {
+    "district": "Hyderabad",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Hyderabad_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:31.281143"
+  },
+  {
+    "district": "Islamabad",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Islamabad_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:36.406047"
+  },
+  {
+    "district": "Jhang",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Jhang_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:41.173467"
+  },
+  {
+    "district": "Jhang",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Jhang_malaria_2023-06-15",
+    "timestamp": "2025-11-21T00:05:45.782096"
+  },
+  {
+    "district": "Karachi",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Karachi_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:50.882290"
+  },
+  {
+    "district": "Kasur",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Kasur_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:05:55.467812"
+  },
+  {
+    "district": "Kasur",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Kasur_malaria_2023-06-15",
+    "timestamp": "2025-11-21T00:06:02.070523"
+  },
+  {
+    "district": "Lahore",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Lahore_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:07.388851"
+  },
+  {
+    "district": "Larkana",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Larkana_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:13.262630"
+  },
+  {
+    "district": "Multan",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Multan_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:18.057004"
+  },
+  {
+    "district": "Peshawar",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Peshawar_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:23.546697"
+  },
+  {
+    "district": "Quetta",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Quetta_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:28.686426"
+  },
+  {
+    "district": "Rahim Yar Khan",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Rahim Yar Khan_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:35.107965"
+  },
+  {
+    "district": "Rawalpindi",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Rawalpindi_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:40.357985"
+  },
+  {
+    "district": "Sargodha",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Sargodha_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:46.363410"
+  },
+  {
+    "district": "Sheikhupura",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Sheikhupura_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:06:51.690136"
+  },
+  {
+    "district": "Sheikhupura",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Sheikhupura_malaria_2023-06-15",
+    "timestamp": "2025-11-21T00:06:56.693934"
+  },
+  {
+    "district": "Sialkot",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Sialkot_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:07:02.047874"
+  },
+  {
+    "district": "Sukkur",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "sent",
+    "email_sent": true,
+    "sms_sent": true,
+    "alert_id": "Sukkur_covid19_2025-06-15",
+    "timestamp": "2025-11-21T00:07:07.956847"
+  },
+  {
+    "district": "Bahawalpur",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DDB8F50>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Bahawalpur_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.382157"
+  },
+  {
+    "district": "Faisalabad",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD01BD0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Faisalabad_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.418415"
+  },
+  {
+    "district": "Gujranwala",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD02850>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Gujranwala_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.453917"
+  },
+  {
+    "district": "Gujrat",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD02710>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Gujrat_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.486408"
+  },
+  {
+    "district": "Gujrat",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD03110>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Gujrat_malaria_2023-06-15",
+    "timestamp": "2025-11-24T10:24:45.518884"
+  },
+  {
+    "district": "Hyderabad",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC282D0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Hyderabad_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.557096"
+  },
+  {
+    "district": "Islamabad",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC28550>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Islamabad_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.601486"
+  },
+  {
+    "district": "Jhang",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC28F50>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Jhang_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.650322"
+  },
+  {
+    "district": "Jhang",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC29950>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Jhang_malaria_2023-06-15",
+    "timestamp": "2025-11-24T10:24:45.687377"
+  },
+  {
+    "district": "Karachi",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC2A350>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Karachi_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.739575"
+  },
+  {
+    "district": "Kasur",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC2AD50>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Kasur_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.791419"
+  },
+  {
+    "district": "Kasur",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC2B750>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Kasur_malaria_2023-06-15",
+    "timestamp": "2025-11-24T10:24:45.835048"
+  },
+  {
+    "district": "Lahore",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC08190>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Lahore_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.876866"
+  },
+  {
+    "district": "Larkana",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC08B90>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Larkana_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.925062"
+  },
+  {
+    "district": "Multan",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD03B10>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Multan_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.959748"
+  },
+  {
+    "district": "Peshawar",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD03D90>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Peshawar_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:45.999369"
+  },
+  {
+    "district": "Quetta",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD034D0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Quetta_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.265846"
+  },
+  {
+    "district": "Rahim Yar Khan",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD02AD0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Rahim Yar Khan_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.310307"
+  },
+  {
+    "district": "Rawalpindi",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD02350>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Rawalpindi_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.343219"
+  },
+  {
+    "district": "Sargodha",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DD01810>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sargodha_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.373747"
+  },
+  {
+    "district": "Sheikhupura",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC09590>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sheikhupura_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.402939"
+  },
+  {
+    "district": "Sheikhupura",
+    "disease": "malaria",
+    "risk_index": 100.0,
+    "threshold": 92,
+    "date": "2023-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC08CD0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sheikhupura_malaria_2023-06-15",
+    "timestamp": "2025-11-24T10:24:46.437607"
+  },
+  {
+    "district": "Sialkot",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC082D0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sialkot_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.467328"
+  },
+  {
+    "district": "Sukkur",
+    "disease": "covid19",
+    "risk_index": 100.0,
+    "threshold": 97,
+    "date": "2025-06-15",
+    "status": "failed",
+    "sms_errors": [
+      "Failed to send SMS to +923125110768: HTTPSConnectionPool(host='api.twilio.com', port=443): Max retries exceeded with url: /2010-04-01/Accounts/ACfca66b2a92904ef1db572a6955c9ceae/Messages.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DB3DC0A0D0>: Failed to resolve 'api.twilio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    ],
+    "email_sent": false,
+    "sms_sent": false,
+    "alert_id": "Sukkur_covid19_2025-06-15",
+    "timestamp": "2025-11-24T10:24:46.493539"
+  }
+]

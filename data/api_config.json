@@ -1,0 +1,22 @@
+{
+  "enabled": false,
+  "base_url": "",
+  "endpoints": {
+    "disease_risk_data": "/api/disease-risk-data",
+    "districts": "/api/districts"
+  },
+  "authentication": {
+    "method": "none",
+    "api_key": "",
+    "bearer_token": "",
+    "username": "",
+    "password": ""
+  },
+  "timeout": 30,
+  "retry_attempts": 3,
+  "cache_duration": 300,
+  "rate_limit": {
+    "enabled": false,
+    "requests_per_minute": 60
+  }
+}

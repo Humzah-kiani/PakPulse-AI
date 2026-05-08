@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-03-08T14:29:56.743270",
+  "system": {
+    "python_version": "3.11.1"
+  },
+  "database": {
+    "connected": true,
+    "tables": {
+      "districts": true,
+      "diseases": true,
+      "disease_cases": true,
+      "weather_data": true,
+      "api_logs": true
+    }
+  },
+  "apis": {
+    "aws": {
+      "status": "ERROR",
+      "error": "An error occurred (InvalidClientTokenId) when calling the GetCallerIdentity operation: The security token included in the request is invalid."
+    }
+  },
+  "logs": {
+    "last_24_hours": {
+      "GHO": {
+        "calls": 2,
+        "successful": 0,
+        "success_rate": 0.0,
+        "avg_response_ms": "1175.0000000000000000"
+      },
+      "OpenWeather": {
+        "calls": 53,
+        "successful": 0,
+        "success_rate": 0.0,
+        "avg_response_ms": "391.3773584905660377"
+      }
+    }
+  },
+  "recommendations": [
+    "Install missing packages: pip install python-dotenv",
+    "Check OpenWeather API key validity"
+  ],
+  "environment": {
+    "required_vars_set": true,
+    "missing_count": 0
+  }
+}

@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+bin/
+lib/
+share/
+Include/
+Scripts/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data & Models (Large Files > 100MB)
+pakpulse_250k_featured.csv
+predictions.csv
+predictions_on_train.csv
+models/predictions_on_train.csv
+
+# Environment Variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db

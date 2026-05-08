@@ -1,0 +1,90 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin",
+    "name": "Administrator"
+  },
+  "health_officer": {
+    "password": "officer123",
+    "role": "officer",
+    "name": "Health Officer"
+  },
+  "viewer": {
+    "password": "viewer123",
+    "role": "viewer",
+    "name": "Viewer"
+  },
+  "Abdullahsheikh26": {
+    "password": "abdu1234",
+    "role": "viewer",
+    "name": "Abdullah Sheikh",
+    "email": "abdullahsheikh2608@gmail.com"
+  },
+  "abdu123": {
+    "password": "12345678",
+    "role": "user",
+    "name": "A12345",
+    "email": "abdullahsheikh2608@gmail.com"
+  },
+  "abdu1234": {
+    "password": "12345678",
+    "role": "user",
+    "name": "A12345",
+    "email": "abdu1234"
+  },
+  "officer": {
+    "password": "officer123",
+    "role": "officer",
+    "name": "Health Officer",
+    "email": "officer@pakpulse.ai"
+  },
+  "abdullah123": {
+    "password": "12345678",
+    "hashed": false,
+    "role": "viewer",
+    "name": "pakpulseai",
+    "email": "pakpulseai@gmail.com"
+  },
+  "abdullah_26": {
+    "password": "Abdu1234@llah5678",
+    "hashed": false,
+    "role": "viewer",
+    "name": "Abdullah Sheikh",
+    "email": "abdullahsheikh2608@gmail.com"
+  },
+  "Hamza": {
+    "password": "Humzah@4.4",
+    "hashed": false,
+    "role": "viewer",
+    "name": "Hamza",
+    "email": "humzah0kiani@gmail.com"
+  },
+  "HamzaK": {
+    "password": "humzaH@4.4",
+    "hashed": false,
+    "role": "viewer",
+    "name": "HamzaK",
+    "email": "humzah0kiani@gmail.com"
+  },
+  "Hamza2": {
+    "password": "Hamza@4.4",
+    "hashed": false,
+    "role": "viewer",
+    "name": "Hamza",
+    "email": "humzah0kiani@gmail.com"
+  },
+  "pakpulse": {
+    "password": "Pakpulse@13",
+    "hashed": false,
+    "role": "viewer",
+    "name": "pakpulse",
+    "email": "humzah0kiani@gmail.com"
+  },
+  "bilalar": {
+    "password": "Bilalhamza22@",
+    "hashed": false,
+    "role": "viewer",
+    "name": "bilal",
+    "email": "bilal@gmail.com"
+  }
+}

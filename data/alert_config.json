@@ -1,0 +1,53 @@
+{
+  "email": {
+    "enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "pakpulseai@gmail.com",
+    "sender_password": "loaqaslhkrzeemjr",
+    "recipients": [
+      "sheikhmustafa639@gmail.com"
+    ]
+  },
+  "sms": {
+    "enabled": true,
+    "twilio_account_sid": "ACfca66b2a92904ef1db572a6955c9ceae",
+    "twilio_auth_token": "f216e55b110a40e18580e0248747ccdf",
+    "twilio_phone_number": "+14134085448",
+    "recipients": [
+      "+923125110768"
+    ]
+  },
+  "thresholds": {
+    "dengue": 98,
+    "malaria": 98,
+    "cholera": 98,
+    "influenza": 96,
+    "covid19": 97,
+    "hepatitis_a": 99,
+    "pneumonia": 99,
+    "tuberculosis": 98,
+    "typhoid": 98,
+    "Cholera": 40,
+    "Covid-19": 11,
+    "Dengue": 70,
+    "Diarrhea": 99,
+    "Eye-Infection": 70,
+    "Food-Poisoning": 70,
+    "Heatstroke": 70,
+    "Hepatitis-A": 70,
+    "Hepatitis-E": 70,
+    "Influenza": 70,
+    "Malaria": 70,
+    "Measles": 70,
+    "Mumps": 70,
+    "Pneumonia": 70,
+    "Polio": 70,
+    "Rotavirus": 70,
+    "Skin-Infection": 70,
+    "Tuberculosis": 70,
+    "Typhoid": 70,
+    "Whooping-Cough": 70
+  },
+  "alert_frequency": "immediate"
+}

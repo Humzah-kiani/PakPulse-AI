@@ -1,0 +1,31 @@
+{
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "",
+    "sender_password": "",
+    "recipients": []
+  },
+  "sms": {
+    "enabled": true,
+    "twilio_account_sid": "ACfca66b2a92904ef1db572a6955c9ceae",
+    "twilio_auth_token": "f216e55b110a40e18580e0248747ccdf",
+    "twilio_phone_number": "+12055551234",
+    "recipients": [
+      "+923125110768"
+    ]
+  },
+  "thresholds": {
+    "covid19": 70,
+    "dengue": 70,
+    "influenza": 70,
+    "malaria": 70,
+    "cholera": 70,
+    "pneumonia": 70,
+    "tuberculosis": 75,
+    "typhoid": 70,
+    "hepatitis_a": 65
+  },
+  "alert_frequency": "daily"
+}

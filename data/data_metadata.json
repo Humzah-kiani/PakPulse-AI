@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-11-18T22:32:00.363190",
+  "total_records": 400,
+  "diseases": [
+    "covid19",
+    "malaria",
+    "tuberculosis"
+  ],
+  "districts": [
+    "Bahawalpur",
+    "Faisalabad",
+    "Gujranwala",
+    "Gujrat",
+    "Hyderabad",
+    "Islamabad",
+    "Jhang",
+    "Karachi",
+    "Kasur",
+    "Lahore",
+    "Larkana",
+    "Multan",
+    "Peshawar",
+    "Quetta",
+    "Rahim Yar Khan",
+    "Rawalpindi",
+    "Sargodha",
+    "Sheikhupura",
+    "Sialkot",
+    "Sukkur"
+  ],
+  "year_range": {
+    "min": 2015,
+    "max": 2025
+  }
+}
